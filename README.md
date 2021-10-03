@@ -1,2 +1,2 @@
-# javaprac_2020
+# Java Basics
 - This covers basic java skills
